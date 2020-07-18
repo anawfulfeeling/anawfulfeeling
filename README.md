@@ -1,4 +1,6 @@
-### Hi there 👋
+### a warm, awful feeling
+
+i'm working on Pig Town, a game by 3 women in tech :sparkles:
 
 <!--
 **anawfulfeeling/anawfulfeeling** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
